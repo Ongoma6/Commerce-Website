@@ -200,7 +200,7 @@ Open source for demonstration, personal, or commercial use (replace with your ac
 
 ## Credits
 
-Web design and development by [Your Name or Agency]  
+Web design and development by Ongoma Moses  
 Inspired by modern luxury e-commerce best practices.
 
 ***
